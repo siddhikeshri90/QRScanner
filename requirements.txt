@@ -1,0 +1,14 @@
+opencv-python
+pyzbar
+qrcode[pil]
+albumentations
+scikit-learn
+xgboost
+python-whois
+python-Levenshtein
+requests
+streamlit
+pandas
+numpy
+Pillow
+tensorflow
